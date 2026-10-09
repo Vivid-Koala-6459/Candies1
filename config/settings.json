@@ -1,6 +1,6 @@
 {
   "shop_name": "Candies",
-  "currency": "SGD",
+  "currency": "ZAR",
   "pickup_interval_minutes": 15,
   "max_orders_per_slot": 10,
   "milk_options": [

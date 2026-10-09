@@ -2,42 +2,42 @@
   "coffee": [
     {
       "id": "espresso",
-      "name": "Espresso",
+      "name": "Candies Espresso",
       "description": "Rich, intense and beautifully balanced.",
       "price": 3.2,
       "image": ""
     },
     {
       "id": "americano",
-      "name": "Americano",
+      "name": "Cliftons Americano",
       "description": "Smooth espresso with hot water.",
       "price": 3.8,
       "image": ""
     },
     {
       "id": "latte",
-      "name": "Caf\u00e9 Latte",
+      "name": "Abbys Caf\u00e9 Latte",
       "description": "Velvety espresso with silky steamed milk.",
       "price": 4.8,
       "image": ""
     },
     {
       "id": "cappuccino",
-      "name": "Cappuccino",
+      "name": "Lynndis Cappuccino",
       "description": "Espresso, steamed milk and a soft foam.",
       "price": 4.8,
       "image": ""
     },
     {
       "id": "flat_white",
-      "name": "Flat White",
+      "name": "Teresa Flat White",
       "description": "Double espresso with finely textured milk.",
       "price": 5.0,
       "image": ""
     },
     {
       "id": "mocha",
-      "name": "Mocha",
+      "name": "Kevins Mocha",
       "description": "Espresso, chocolate and creamy milk.",
       "price": 5.2,
       "image": ""

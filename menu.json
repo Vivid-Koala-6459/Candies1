@@ -1,0 +1,132 @@
+{
+  "coffee": [
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "description": "Rich, intense and beautifully balanced.",
+      "price": 3.2,
+      "image": ""
+    },
+    {
+      "id": "americano",
+      "name": "Americano",
+      "description": "Smooth espresso with hot water.",
+      "price": 3.8,
+      "image": ""
+    },
+    {
+      "id": "latte",
+      "name": "Caf\u00e9 Latte",
+      "description": "Velvety espresso with silky steamed milk.",
+      "price": 4.8,
+      "image": ""
+    },
+    {
+      "id": "cappuccino",
+      "name": "Cappuccino",
+      "description": "Espresso, steamed milk and a soft foam.",
+      "price": 4.8,
+      "image": ""
+    },
+    {
+      "id": "flat_white",
+      "name": "Flat White",
+      "description": "Double espresso with finely textured milk.",
+      "price": 5.0,
+      "image": ""
+    },
+    {
+      "id": "mocha",
+      "name": "Mocha",
+      "description": "Espresso, chocolate and creamy milk.",
+      "price": 5.2,
+      "image": ""
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha Latte",
+      "description": "Creamy premium matcha with your choice of milk.",
+      "price": 5.2,
+      "image": ""
+    },
+    {
+      "id": "tea",
+      "name": "English Breakfast Tea",
+      "description": "Classic, bright and comforting.",
+      "price": 3.5,
+      "image": ""
+    }
+  ],
+  "food": [
+    {
+      "id": "croissant",
+      "name": "Butter Croissant",
+      "description": "Flaky, golden and baked fresh.",
+      "price": 4.2,
+      "image": ""
+    },
+    {
+      "id": "almond_croissant",
+      "name": "Almond Croissant",
+      "description": "Buttery croissant with almond frangipane.",
+      "price": 5.2,
+      "image": ""
+    },
+    {
+      "id": "banana_bread",
+      "name": "Banana Bread",
+      "description": "Moist, gently spiced and house baked.",
+      "price": 4.5,
+      "image": ""
+    },
+    {
+      "id": "blueberry_muffin",
+      "name": "Blueberry Muffin",
+      "description": "Soft vanilla muffin packed with blueberries.",
+      "price": 4.5,
+      "image": ""
+    },
+    {
+      "id": "chocolate_muffin",
+      "name": "Chocolate Muffin",
+      "description": "Rich chocolate muffin with chocolate chunks.",
+      "price": 4.8,
+      "image": ""
+    },
+    {
+      "id": "avocado_toast",
+      "name": "Avocado Toast",
+      "description": "Smashed avocado on toasted sourdough.",
+      "price": 8.5,
+      "image": ""
+    },
+    {
+      "id": "egg_sandwich",
+      "name": "Egg & Cheese Sandwich",
+      "description": "Soft egg, cheese and toasted bread.",
+      "price": 8.9,
+      "image": ""
+    },
+    {
+      "id": "chicken_panini",
+      "name": "Chicken Pesto Panini",
+      "description": "Chicken, pesto and cheese, toasted warm.",
+      "price": 10.5,
+      "image": ""
+    },
+    {
+      "id": "granola",
+      "name": "Yoghurt & Granola",
+      "description": "Creamy yoghurt, granola and seasonal fruit.",
+      "price": 7.9,
+      "image": ""
+    },
+    {
+      "id": "fruit_cup",
+      "name": "Fresh Fruit Cup",
+      "description": "A refreshing selection of seasonal fruit.",
+      "price": 6.5,
+      "image": ""
+    }
+  ]
+}
